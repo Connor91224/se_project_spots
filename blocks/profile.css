@@ -21,4 +21,9 @@
 }
 .profile__post-button {
   margin-left: auto;
+  background-color: #212121;
+  color: #fcf5e5;
+  height: 52px;
+  width: 149px;
+  border-radius: 8px;
 }

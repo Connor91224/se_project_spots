@@ -10,8 +10,8 @@ The website requires using a grid to organize images depending on the users scre
 
 ### Images
 
-(./C:\Users\ctwar\projects\se_project_spots\images\demo1.png)
-(./C:\Users\ctwar\projects\se_project_spots\images\demo2.png)
+[!desktop-view](./images/demo1.png)
+[!mobile-view](./images/demo2.png)
 
 #### Github Site
 

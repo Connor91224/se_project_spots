@@ -6,8 +6,4 @@
 @import url(../blocks/content.css);
 @import url(../blocks/cards.css);
 @import url(../blocks/card.css);
-/*TODO
--apply font weights and styles
--round edges of images
--style buttons
--center footer  */
+@import url(../blocks/footer.css);

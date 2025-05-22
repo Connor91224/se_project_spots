@@ -22,6 +22,10 @@
   background-color: transparent;
   padding: 0;
   margin: 0;
+  opacity: 40%;
+}
+.card__like-button:hover {
+  opacity: 100%;
 }
 .card__title {
   color: #212121;

@@ -62,6 +62,9 @@
   letter-spacing: 0%;
   color: #212121;
 }
+.profile_edit-button:hover {
+  opacity: 100%;
+}
 .profile__post-button {
   margin-left: auto;
   background-color: #212121;
@@ -72,6 +75,10 @@
   gap: 8px;
   align-self: flex-end;
 }
+.profile__post-button:hover {
+  opacity: 80%;
+}
+
 @media screen and (max-width: 627px) {
   .profile {
     flex-direction: column;

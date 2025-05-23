@@ -17,3 +17,6 @@ The website requires using a grid to organize images depending on the users scre
 
 Github page
 https://connor91224.github.io/se_project_spots/
+
+sprint video
+https://drive.google.com/file/d/14hNNJwCfafJ-O8TyadXPA9bZx3aE7H08/view?usp=drive_link

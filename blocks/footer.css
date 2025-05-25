@@ -8,9 +8,13 @@
   margin: 0;
 }
 .footer__text {
-  width: 104px;
-  height: 16px;
   opacity: 70%;
   color: #212121;
   text-wrap: nowrap;
+  margin: 0;
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
 }

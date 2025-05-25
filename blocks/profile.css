@@ -96,12 +96,11 @@
     margin-right: 0;
     height: 80px;
     width: 80px;
-    margin-bottom: 12px;
   }
-  .profile_edit-button {
+  .profile__edit-button {
     justify-content: center;
     width: 100%;
-    margin: 32px 0 20px;
+    margin: 0 0 20px;
   }
   .profile__post-button {
     align-self: center;
@@ -109,6 +108,7 @@
   }
   .profile__description {
     max-width: 288px;
+    margin-bottom: 32px;
   }
   .profile__name {
     max-width: 288px;

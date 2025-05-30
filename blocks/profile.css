@@ -21,7 +21,7 @@
   font-weight: 500;
   font-size: 32px;
   line-height: 1;
-  letter-spacing: 0%;
+
   max-width: 420px;
   display: -webkit-box;
   overflow: hidden;
@@ -35,7 +35,7 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 1;
-  letter-spacing: 0%;
+
   color: rgba(33, 33, 33, 0.7);
   max-width: 420px;
   display: -webkit-box;
@@ -61,11 +61,11 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 1;
-  letter-spacing: 0%;
+
   color: #212121;
   cursor: pointer;
 }
-.profile_edit-button:hover {
+.profile__edit-button:hover {
   opacity: 100%;
 }
 .profile__post-button {
@@ -93,7 +93,7 @@
     padding: 20px;
   }
   .profile__avatar {
-    margin-right: 0;
+    margin: 0 0 12px;
     height: 80px;
     width: 80px;
   }
@@ -112,5 +112,6 @@
   }
   .profile__name {
     max-width: 288px;
+    font-size: 20px;
   }
 }

@@ -90,7 +90,7 @@
     max-width: 288px;
     align-items: center;
     text-align: center;
-    padding: 20px;
+    padding: 20px 0;
   }
   .profile__avatar {
     margin: 0 0 12px;
